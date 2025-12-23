@@ -6,7 +6,7 @@
 // =================================================================
 // YOUR API KEY IS NOW EMBEDDED BELOW
 // =================================================================
-const char* API_KEY = "b78be4bd92aabf2b4efcb3e032665065"; 
+const char* API_KEY = "670171d90df32a3ba16aa60ced08d35d"; 
 
 void fetch_data(char* city) {
     char command[1024];
